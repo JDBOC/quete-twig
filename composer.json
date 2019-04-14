@@ -1,0 +1,12 @@
+{
+    "name": "jdboc/twig-exo",
+    "authors": [
+        {
+            "name": "Jean Daniel Boccara",
+            "email": "Jean_Daniel_Boccara_student2019@wilder.school"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
